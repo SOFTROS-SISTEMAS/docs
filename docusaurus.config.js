@@ -51,10 +51,22 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'web/intro',
             position: 'left',
-            label: 'Documentação',
-          }
+            label: 'Sistema',
+          },
+          {
+            type: 'doc',
+            docId: 'mobile/intro',
+            position: 'left',
+            label: 'Aplicativo',
+          },
+          {
+            type: 'doc',
+            docId: 'api/intro',
+            position: 'left',
+            label: 'API',
+          },
         ],
       },
       footer: {

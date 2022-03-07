@@ -4,32 +4,31 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Fácil de usar',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        O sistema agulhão é totalmente web e desenhado para ser prático e poderoso.
+        Tudo para aumentar sua produtividade! Achou algo difícil? A gente descomplica 😉
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Foque no seu trabalho',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        O foco do agulhão e desta documentação é para que você possa agilizar suas dúvidas
+        ou conhecer mais sobre nossas ferramentas, tudo para que você possa focar no que importa, seu trabalho 😁
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Aplicativo',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Com nosso aplicativo otimizamos sua vida e a de seus parceiros. Confira o que podemos fazer 🧐
       </>
     ),
   },
