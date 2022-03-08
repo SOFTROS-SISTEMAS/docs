@@ -29,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Sistema especialista | ${siteConfig.title}`}
+      title={`Docs`}
       description="Agulhão, sistema especialista em gestão de lojas individuais ou Multi-lojas, seja no atacado, varejo ou franqueados.">
       <HomepageHeader />
       <main>

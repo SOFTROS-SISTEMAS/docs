@@ -1,5 +1,9 @@
+---
+sidebar_position: 1
+title: Apresentação
+---
 
-# Baixando o aplicativo
+## Baixando o aplicativo
 :::info  
   
 O aplicativo Agulhão permite ao usuário realizar todas as operações que um sistema convencional, de forma prática e de qualquer lugar.  
@@ -16,12 +20,11 @@ Para baixar o app Agulhão em um dispositivo IOS, [clique aqui](https://apps.app
 
 ## Login
 Insira a chave fornecida por seu gerente:
-![tela onde se informa a chave da empresa](https://i.imgur.com/zP1pAMn.jpg =300x)
-
+<img src="https://i.imgur.com/zP1pAMn.jpg" alt="banner" width="250px" />
 
 
 Informe seu usuário e senha:
-![enter image description here](https://i.imgur.com/SJKe3Bv.jpg =300x)
+<img src="https://i.imgur.com/SJKe3Bv.jpg" alt="banner" width="250px" />
 
 
 :::tip  

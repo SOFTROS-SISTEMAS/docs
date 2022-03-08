@@ -1,5 +1,5 @@
 # Cadastrando um protudo
-[CadastrandoProduto](/CadastrandoProduto)
+
 Para cadastrar Produtos tem várias formas:
 1- Menu de produtos;
 2- Pela baixa do xml do fornecedor;
