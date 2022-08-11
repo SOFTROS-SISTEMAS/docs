@@ -1,3 +1,7 @@
+---
+title: Estatísticas
+slug: estatisticas
+---
 # Estatísticas
 Com essa ferramenta você acompanha as metas, vendas, vendas por períodos e ainda compara venda de itens e outros valores
 
