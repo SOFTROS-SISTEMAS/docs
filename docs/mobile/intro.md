@@ -36,16 +36,34 @@ Pronto, agora você já pode começar a usar nosso aplicativo.
 
 <!--StartFragment-->
 
-<Tabs\
-defaultValue="apple"\
-values={[\
-{label: 'Apple', value: 'apple'},\
-{label: 'Orange', value: 'orange'},\
-{label: 'Banana', value: 'banana'},\
-]}>\
-<TabItem value="apple">This is an apple 🍎</TabItem>\
-<TabItem value="orange">This is an orange 🍊</TabItem>\
-<TabItem value="banana">This is a banana 🍌</TabItem>\
-</Tabs>
+:::note\
+\
+Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
+\
+:::\
+\
+:::tip\
+\
+Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
+\
+:::\
+\
+:::info\
+\
+Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
+\
+:::\
+\
+:::caution\
+\
+Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
+\
+:::\
+\
+:::danger\
+\
+Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
+\
+:::
 
 <!--EndFragment-->
