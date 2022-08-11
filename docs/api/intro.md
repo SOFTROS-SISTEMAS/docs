@@ -1,3 +1,7 @@
+---
+title: Integração
+slug: intro
+---
 # Integração
 Documentação da API do Agulhão
 
@@ -441,10 +445,9 @@ Este procedimento retorna os pedidos do cliente
 	}
 }
 ```
----
 
-> A requisição deverá retornar o seguinte corpo:
-{.is-success}
+:::tip SUCESSO
+A requisição deverá retornar o seguinte corpo:
 ```json
 {
   "AppClienteRsp": {
@@ -472,9 +475,9 @@ Este procedimento retorna os pedidos do cliente
   }
 }
 ```
+:::
 
-> Status do pedido
-{.is-info}
+:::note Status do pedido
 ```json
 {
   "1": "Digitando",

@@ -31,39 +31,3 @@ Informe seu usuário e senha:
 Pronto, agora você já pode começar a usar nosso aplicativo.  
 
 :::
-
-
-
-<!--StartFragment-->
-
-:::note\
-\
-Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
-\
-:::\
-\
-:::tip\
-\
-Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
-\
-:::\
-\
-:::info\
-\
-Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
-\
-:::\
-\
-:::caution\
-\
-Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
-\
-:::\
-\
-:::danger\
-\
-Some \*\*content\*\* with \_Markdown\_ \`syntax\`. Confira \[esta \`api\`](#).\
-\
-:::
-
-<!--EndFragment-->
