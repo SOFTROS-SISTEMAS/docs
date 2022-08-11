@@ -1,3 +1,7 @@
+---
+title: Cores
+slug: cores
+---
 # Cores
 O cadastro de cores é necessário para que seja possível cadastrar sues produtos no sistema.
 

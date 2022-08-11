@@ -1,3 +1,7 @@
+---
+title: Ofertas
+slug: ofertas
+---
 # Ofertas
 
 Crie promoções e altere temporariamente o valor dos intens sem alterar a tabela de preços

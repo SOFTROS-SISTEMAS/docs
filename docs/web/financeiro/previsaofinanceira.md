@@ -1,3 +1,7 @@
+---
+title: Previsão Financeira
+slug: previsaoFinanceira
+---
 # Previsão Financeira
 Essa ferramenta serve para o controle das despesas fixas da sua empresa. Cadastre contas como internet e aluguel, assim como de receitas fixas que seu negócio tenha. Essas receitas e despesas constaram nos relatórios
 

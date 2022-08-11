@@ -1,3 +1,7 @@
+---
+title: Cortes
+slug: cortes
+---
 # Cortes
 Crie, edite e acompnhe os cortes da sua facção
 

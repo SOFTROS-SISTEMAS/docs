@@ -1,3 +1,7 @@
+---
+title: CRM
+slug: crm
+---
 # CRM - Gestão de relacionamento com o cliente (*Customer relationship management*)
 
 O CRM é um conjunto de informações que apresenta dados sobre o total de vendas por vendedor. É possível acompanhar o total vendido, a receita total, ticket médio entre outros. É possível também estabelecer metas e acompanha-las pelo CRM. 

@@ -1,3 +1,7 @@
+---
+title: Cobrar
+slug: cobrar
+---
 # Cobrar
 **Com o módulo de cobranças você tem mais controle e agilidade sobre as duplicatas em atraso.**
 

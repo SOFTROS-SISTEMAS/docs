@@ -1,3 +1,7 @@
+---
+title: Clientes
+slug: clientes
+---
 # Cadastro
 Para fazer um pedido é obrigatório que o cliente esteja cadastrado.
 

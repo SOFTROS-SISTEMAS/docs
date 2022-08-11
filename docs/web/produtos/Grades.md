@@ -1,3 +1,7 @@
+---
+title: Grades
+slug: grades
+---
 # Grades
 Para cadastrar as grades com que ira trabalhar, selecione produtos - diversos - grades
 

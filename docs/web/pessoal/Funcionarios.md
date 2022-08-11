@@ -1,3 +1,7 @@
+---
+title: Funcionários
+slug: funcionarios
+---
 # Funcionários
 O módulo <kbd>pessoal</kbd> dos sistema Agulhão fornece um conjunto completo de ferramentas para o gerenciamento dos funcionários da sua empresa
 

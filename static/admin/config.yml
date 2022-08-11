@@ -8,20 +8,6 @@ media_folder: "static/img" # Media files will be stored in the repo under static
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-- name: web
-  label: "Web"
-  folder: docs/web
-  extension: md
-  create: true
-  slug: "{{slug}}"
-  widget: "list"
-  fields:
-    - { name: title, label: Título, widget: string }
-    - { name: body, label: Conteúdo, widget: markdown }
-    - { name: slug, label: Arquivo, widget: string }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
 - name: mobile
   label: "Aplicativo"
   folder: docs/mobile
@@ -50,4 +36,115 @@ collections:
     - label: "Tags"
       name: "tags"
       widget: "list"
-      
+- name: web
+  label: "Web"
+  folder: docs/web
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_clientes
+  label: "Web/Clientes"
+  folder: docs/web/clientes
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_confeccao
+  label: "Web/Confecção"
+  folder: docs/web/confeccao
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_configuracoes
+  label: "Web/Configurações"
+  folder: docs/web/configuracoes
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_faturamento
+  label: "Web/Faturamento"
+  folder: docs/web/faturamento
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_financeiro
+  label: "Web/Financeiro"
+  folder: docs/web/financeiro
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_pessoal
+  label: "Web/Pessoal"
+  folder: docs/web/pessoal
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+- name: web_produtos
+  label: "Web/Produtos"
+  folder: docs/web/produtos
+  extension: md
+  create: true
+  slug: "{{slug}}"
+  widget: "list"
+  fields:
+    - { name: title, label: Título, widget: string }
+    - { name: body, label: Conteúdo, widget: markdown }
+    - { name: slug, label: Arquivo, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"

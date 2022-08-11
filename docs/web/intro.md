@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Apresentação
+slug: intro
 ---
 # Apresentação
 

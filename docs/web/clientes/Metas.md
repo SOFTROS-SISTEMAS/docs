@@ -1,3 +1,7 @@
+---
+title: Metas
+slug: metas
+---
 # Metas
 Defina suas metas de uma maneira simples
 
